@@ -35,7 +35,7 @@ An interactive 3-page Power BI dashboard built on 4,800 Tata Motors sales record
 | Total Revenue         | Rs 10,994 Cr  |
 | Total Sales Records   | 4,800         |
 | Average Satisfaction  | 8.5 / 10      |
-|---------------------------------------|
+
 ## Dashboard Features
 
 - KPI cards for units, revenue, records and satisfaction
@@ -58,11 +58,11 @@ An interactive 3-page Power BI dashboard built on 4,800 Tata Motors sales record
 
 ## Project Structure
 <!-- ------------------------------------------------- -->
-|tata-motors-sales-dashboard/                    |
-|dashboard/ Power BI file (Tata_Motors.pbix)     |
-|data/ Cleaned dataset (tata_motors_cleaned.csv) |
-|python/ Jupyter notebook used for data checking |
-|screenshots/ Dashboard page screenshots         |
+tata-motors-sales-dashboard/                    
+dashboard/ Power BI file (Tata_Motors.pbix)     
+data/ Cleaned dataset (tata_motors_cleaned.csv) 
+python/ Jupyter notebook used for data checking 
+screenshots/ Dashboard page screenshots         
 <!-- ------------------------------------------------- -->
 
 
